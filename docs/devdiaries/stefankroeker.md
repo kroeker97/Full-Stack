@@ -10,7 +10,7 @@ __08.04.2019 - 14.04.2019__
 | 14.04.2019 | Verstehen was ein ORM macht.                                                                                                   | 15 min     |        |
 | 14.04.2019 | Installieren von Django und Maria DB.                                                                                          | 1h 15 min  | Probleme beim installieren von Django, da Symlink von django-admin.py nicht automatisch gesetzt wird und deswegen das Projekt nicht erstellt werden konnte. Rechner muss nach Django installation neugestartet werden.    |
 | 14.04.2019 | Verstehen was ein ORM macht.                                                                                                   | 15 min     |        |
-
+                                                                                                                                                3h 15min
 
 ## Woche 2 
 __15.04.2019 - 21.04.2019__
@@ -25,7 +25,7 @@ __15.04.2019 - 21.04.2019__
 | 19.04.2019 | Dokumentieren von Tätigkeit.                                                                                                    | 45 min     |        |
 | 19.04.2019 | Einlesen der Datenbank API, sowie testen der Funktionen und Dokumentieren der benutzten Methoden.                               | 2h         |        |
 | 20.04.2019 | Django Admin erstellen und Funtionalität aufschreiben.                                                                          | 15 min     |        |
-
+                                                                                                                                                 9h 30min
 ## Woche 3 
 __22.04.2019 - 28.04.2019__
 
@@ -36,7 +36,7 @@ __22.04.2019 - 28.04.2019__
 | 26.04.2019 | Nach URL Patterns recherchieren und erklären.                                                                                   | 2h         |        |
 | 26.04.2019 | Definition von User-Stories erstellen.                                                                                          | 45 min     |        |
 | 28.04.2019 | Templates verstehen und erklären.                                                                                               | 2h         | Erste Templates mit anzeigen von Variablen, welche von Views übergeben worden sind. Erstellen von Listen über eine Loop.       |
-
+                                                                                                                                                 6h
 ## Woche 4 
 __29.04.2019 - 05.05.2019__
 
@@ -51,7 +51,7 @@ __29.04.2019 - 05.05.2019__
 | 03.05.2019 | Test zum Laufen bekommen.                                                                                                       | 30 min     | User brauch Berechtigungen um eine Datenbank zu erstellen.       |
 | 03.05.2019 | Tests erstellt Views und Models getestet.                                                                                       | 3h         |        |
 | 05.05.2019 | Gedanken darüber machen, wie ein Django Projekt am besten in Git gepusht wird.                                                  | 30 min     |        |
-
+                                                                                                                                                 13h 15min
 
 ## Woche 5 
 __06.05.2019 - 12.05.2019__
@@ -65,7 +65,7 @@ __06.05.2019 - 12.05.2019__
 | 09.05.2019 | Projekt Kanban Board erstellt.                                                                                                  | 10 min     |        |
 | 09.05.2019 | Mich weiter mit Channels auseinandergesetzt.                                                                                    | 3h         |        |
 | 09.05.2019 | An Kommunikationsprotokoll weiter gearbeitet.                                                                                   | 2h 30 min  |        |
-
+                                                                                                                                                 14h 10min
 
 ## Woche 6 
 __13.05.2019 - 19.05.2019__
@@ -78,7 +78,7 @@ __13.05.2019 - 19.05.2019__
 | 17.05.2019 | Django auf Apache deployen.                                                                                                     | 4h 30 min  | Es gab Probleme beim einrichten von Apache, da die Systemvariablen nicht übernommen worden sind und dabei dann immer ein "500 Internal Server error" Code angezeigt wurde. Nachdem ich herausgefunden habe, dass es die Systemvariablen sind, ging es recht schnell.    |
 | 17.05.2019 | Channels Beispiel auf dem Server integrieren.                                                                                   | 1h 30min   | Funktioniert nicht mit dem Apache Webserver. Es muss noch seperat ein Daphne Web Server installiert werden.       |
 | 17.05.2019 | Kommunikation zwischen REACT und Django getestet.                                                                               | 45min      |        |
-
+                                                                                                                                                 10h 45min
 ## Woche 7 
 __20.05.2019 - 26.05.2019__
 
@@ -89,7 +89,7 @@ __20.05.2019 - 26.05.2019__
 | 23.05.2019 | Daphne Server deployed.                                                                                                         | 2h         |        |
 | 24.05.2019 | Route zum erstellen einer Lobby erstellt.                                                                                       | 4h         |        |
 | 25.05.2019 | Route erstellt zum beitreten einer Lobby.                                                                                       | 4h         |        |
-
+                                                                                                                                                 16h
 ## Woche 8
 __27.05.2019 - 02.06.2019__
 
@@ -101,7 +101,7 @@ __27.05.2019 - 02.06.2019__
 | 01.06.2019 | An Lobby funktionen gearbeitet.                                                                                                 | 3h         |        |
 | 02.06.2019 | Datenbank erstellt.                                                                                                             | 2h         |        |
 | 02.06.2019 | An Lobby funktionen gearbeitet.                                                                                                 | 6h         |        |
-
+                                                                                                                                                 17h 30min
 ## Woche 9
 __03.06.2019 - 09.06.2019__
 
@@ -113,7 +113,7 @@ __03.06.2019 - 09.06.2019__
 | 06.06.2019 | Tests geschrieben.                                                                                                              | 2h         |                               | 
 | 07.06.2019 | Tests geschrieben.                                                                                                              | 2h         |                               |
 | 07.06.2019 | Spieler von Lobby kicken.                                                                                                       | 2h         |                               |
-
+                                                                                                                                                 13h
 ## Woche 10
 __10.06.2019 - 16.06.2019__
 
@@ -126,7 +126,7 @@ __10.06.2019 - 16.06.2019__
 | 14.06.2019 | Game Tests geschrieben.                                                                                                         | 4h         |        |
 | 15.06.2019 | Game Tests geschrieben.                                                                                                         | 2h         |        |
 | 15.06.2019 | Kommunikation ziehen von Karten implementiert.                                                                                  | 3h         |        |
-
+                                                                                                                                                 18h
 
 ## Woche 11
 __17.06.2019 - 23.06.2019__
@@ -135,7 +135,7 @@ __17.06.2019 - 23.06.2019__
 | Datum      | Tätigkeit                                                                                                                       | Dauer      | Zusatz |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
 | 20.06.2019 | Kommunnikation mit Frontend implementiert.                                                                                      | 8h         |        |
-
+                                                                                                                                                 8h
 
 ## Woche 12
 __24.06.2019 - 30.06.2019__
@@ -149,7 +149,7 @@ __24.06.2019 - 30.06.2019__
 | 30.06.2019 | Mit Sphinx auseinandergesetzt und Dokumentation angefangen.                                                                     | 3h         |        |
 | 30.06.2019 | Bug gefixt wenn Spieler das Spiel verlassen hat.                                                                                | 2h         |        |
 | 30.06.2019 | Dokumentation zu ende geschrieben                                                                                               | 1h         |        |
-
+                                                                                                                                                 13h
 
 ## Woche 13
 __01.07.2019 - 06.07.2019__
@@ -159,3 +159,21 @@ __01.07.2019 - 06.07.2019__
 | 01.07.2019 | Präsentation vorbereitet.                                                                                                       | 2h         |        |
 | 01.07.2019 | Sphinx Dokumentation angepasst mit Github-Pages.                                                                                | 1h         |        |
 | 01.07.2019 | Letzten bug fixes.                                                                                                              | 3h         |        |
+                                                                                                                                                 6h
+
+                                                                                                                                                 148h 25 min
+
+Woche 1: 3h 15min
+Woche 2: 9h 30min
+Woche 3: 6h
+Woche 4: 13h 15min
+Woche 5: 14h 10min
+Woche 6: 10h 45min
+Woche 7: 16h
+Woche 8: 17h 30min
+Woche 9: 13h
+Woche 10: 18h
+Woche 11: 8h
+Woche 12: 13h
+Woche 13: 6h
+Gesamt: 148h 25min
